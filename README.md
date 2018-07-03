@@ -34,6 +34,23 @@ https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF
 
 ![Application](/img/pic-02-04.png?raw=true)
 
+<br/>
+
+### Learn The MERN Stack [3] - Client Setup & Reactstrap
+
+    $ cd client/
+    $ npx create-react-app .
+    $ npm install --save bootstrap reactstrap uuid react-transition-group
+
+<br/>
+
+    http://localhost:3000/
+    http://localhost:5000/api/items/
+
+<br/>
+
+![Application](/img/pic-03-01.png?raw=true)
+
 ---
 
 **Marley**
