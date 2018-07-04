@@ -51,6 +51,14 @@ https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF
 
 ![Application](/img/pic-03-01.png?raw=true)
 
+<br/>
+
+### Learn The MERN Stack [4] - ShoppingList Component & Transitions
+
+<br/>
+
+![Application](/img/pic-04-01.png?raw=true)
+
 ---
 
 **Marley**
