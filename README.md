@@ -59,6 +59,13 @@ https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF
 
 ![Application](/img/pic-04-01.png?raw=true)
 
+<br/>
+
+### Learn The MERN Stack [5] - Implementing Redux
+
+    $ cd client/
+    $ npm install --save redux react-redux redux-thunk
+
 ---
 
 **Marley**
