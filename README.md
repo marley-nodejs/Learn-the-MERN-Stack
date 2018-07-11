@@ -66,6 +66,14 @@ https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF
     $ cd client/
     $ npm install --save redux react-redux redux-thunk
 
+<br/>
+
+### Learn The MERN Stack [6] - Finishing Redux
+
+<br/>
+
+![Application](/img/pic-06-01.png?raw=true)
+
 ---
 
 **Marley**
