@@ -74,6 +74,18 @@ https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF
 
 ![Application](/img/pic-06-01.png?raw=true)
 
+<br/>
+
+### Learn The MERN Stack [7] - Connecting The Backend
+
+    $ cd client/
+    $ npm install --save axios
+
+<br/>
+
+    http://localhost:5000/api/items/
+    http://localhost:3000/
+
 ---
 
 **Marley**
