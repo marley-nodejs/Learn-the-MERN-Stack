@@ -86,6 +86,19 @@ https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF
     http://localhost:5000/api/items/
     http://localhost:3000/
 
+<br/>
+
+### Learn The MERN Stack [8] - Prepare & Deploy
+
+    $ heroku login
+    $ heroku create
+
+    $ git init
+    $ git add .
+    $ git commit -am 'Version 1.0.0'
+    $ heroku git:remote -a secure-cove-37756
+    $ git push heroku master
+
 ---
 
 **Marley**
